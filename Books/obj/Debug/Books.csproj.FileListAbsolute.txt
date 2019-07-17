@@ -1,0 +1,6 @@
+C:\Users\peter\source\repos\katas\PeterKatas\Books\Books\bin\Debug\Books.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Books\Books\bin\Debug\Books.pdb
+C:\Users\peter\source\repos\katas\PeterKatas\Books\Books\obj\Debug\Books.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Books\Books\obj\Debug\Books.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Books\Books\obj\Debug\Books.pdb

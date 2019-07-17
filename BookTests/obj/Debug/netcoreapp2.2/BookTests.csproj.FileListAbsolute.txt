@@ -1,0 +1,17 @@
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\bin\Debug\netcoreapp2.2\BookTests.deps.json
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\bin\Debug\netcoreapp2.2\BookTests.runtimeconfig.json
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\bin\Debug\netcoreapp2.2\BookTests.runtimeconfig.dev.json
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\bin\Debug\netcoreapp2.2\BookTests.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\bin\Debug\netcoreapp2.2\BookTests.pdb
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\bin\Debug\netcoreapp2.2\Books.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\bin\Debug\netcoreapp2.2\Books.pdb
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\obj\Debug\netcoreapp2.2\BookTests.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\obj\Debug\netcoreapp2.2\BookTests.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\obj\Debug\netcoreapp2.2\BookTests.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\obj\Debug\netcoreapp2.2\BookTests.AssemblyInfo.cs
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\obj\Debug\netcoreapp2.2\BookTests.csproj.CopyComplete
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\obj\Debug\netcoreapp2.2\BookTests.dll
+C:\Users\peter\source\repos\katas\PeterKatas\Books\BookTests\obj\Debug\netcoreapp2.2\BookTests.pdb
