@@ -5825,11 +5825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\katas\\PeterKatas\\Books\\BookTests\\BookTests.csproj",
+      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\GitHub\\Books\\BookTests\\BookTests.csproj",
       "projectName": "BookTests",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\katas\\PeterKatas\\Books\\BookTests\\BookTests.csproj",
+      "projectPath": "C:\\Users\\peter\\source\\repos\\GitHub\\Books\\BookTests\\BookTests.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\katas\\PeterKatas\\Books\\BookTests\\obj\\",
+      "outputPath": "C:\\Users\\peter\\source\\repos\\GitHub\\Books\\BookTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5850,8 +5850,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\peter\\source\\repos\\katas\\PeterKatas\\Books\\Books\\Books.csproj": {
-              "projectPath": "C:\\Users\\peter\\source\\repos\\katas\\PeterKatas\\Books\\Books\\Books.csproj"
+            "C:\\Users\\peter\\source\\repos\\GitHub\\Books\\Books\\Books.csproj": {
+              "projectPath": "C:\\Users\\peter\\source\\repos\\GitHub\\Books\\Books\\Books.csproj"
             }
           }
         }

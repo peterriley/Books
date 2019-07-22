@@ -2,6 +2,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Books;
 using System.Collections.Generic;
 
+
 namespace BookTests
 {
     [TestClass]
@@ -76,7 +77,8 @@ namespace BookTests
             var expected = 51.60m;
 
             //-- Arrange
-            var actual = Book.GetTotalPriceWithDiscounts(bookList);
+            //var actual = Book.GetTotalPriceWithDiscounts(bookList);
+            var actual = BookRepository.GetBasketPrice(bookList, 0);
 
             //-- Assert
             Assert.AreEqual(expected, actual);
@@ -124,7 +126,7 @@ namespace BookTests
             var expected = 30m;
 
             //-- Arrange
-            var actual = Book.GetTotalPriceWithDiscounts(bookList);
+            var actual = BookRepository.GetBasketPrice(bookList, 0);
 
             //-- Assert
             Assert.AreEqual(expected, actual);
@@ -172,7 +174,7 @@ namespace BookTests
             var expected = 33.60m;
 
             //-- Arrange
-            var actual = Book.GetTotalPriceWithDiscounts(bookList);
+            var actual = BookRepository.GetBasketPrice(bookList, 0);
 
             //-- Assert
             Assert.AreEqual(expected, actual);
@@ -220,7 +222,7 @@ namespace BookTests
             var expected = 33.60m;
 
             //-- Arrange
-            var actual = Book.GetTotalPriceWithDiscounts(bookList);
+            var actual = BookRepository.GetBasketPrice(bookList, 0);
 
             //-- Assert
             Assert.AreEqual(expected, actual);
@@ -268,7 +270,7 @@ namespace BookTests
             var expected = 33.60m;
 
             //-- Arrange
-            var actual = Book.GetTotalPriceWithDiscounts(bookList);
+            var actual = BookRepository.GetBasketPrice(bookList, 0);
 
             //-- Assert
             Assert.AreEqual(expected, actual);
@@ -316,7 +318,7 @@ namespace BookTests
             var expected = 33.60m;
 
             //-- Arrange
-            var actual = Book.GetTotalPriceWithDiscounts(bookList);
+            var actual = BookRepository.GetBasketPrice(bookList, 0);
 
             //-- Assert
             Assert.AreEqual(expected, actual);
@@ -356,7 +358,7 @@ namespace BookTests
             bookList.Add(singleBook4);
             Book singleBook5 = new Book
             {
-                BookType = BookType.SecondBook,
+                BookType = BookType.FourthBook,
                 BookPrice = 8
             };
             bookList.Add(singleBook5);
@@ -364,7 +366,7 @@ namespace BookTests
             var expected = 33.60m;
 
             //-- Arrange
-            var actual = Book.GetTotalPriceWithDiscounts(bookList);
+            var actual = BookRepository.GetBasketPrice(bookList, 0);
 
             //-- Assert
             Assert.AreEqual(expected, actual);
